@@ -7,5 +7,5 @@ IE:
 
 0 12 * * * /usr/local/bin/Rscript "[your Airtable_backup_script.R location]"
 
-When inputted in the cron tab, downlaods your scripts daily at 12pm.
+When inputted in the cron tab, downlaods your base tables daily at 12pm.
 
