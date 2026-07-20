@@ -5,7 +5,7 @@ It is recommended to fill out this script with your API info (obtainable from ht
 
 IE:
 
-0 12 * * * /usr/local/bin/Rscript "[your Backup.R location]"
+0 12 * * * /usr/local/bin/Rscript "[your Airtable_backup_script.R location]"
 
 When inputted in the cron tab, downlaods your scripts daily at 12pm.
 
